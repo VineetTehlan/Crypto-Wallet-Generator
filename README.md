@@ -38,12 +38,12 @@
 
 ## Project Structure
 
--src/: Contains the source code for the React application.
--App.jsx: Main component that handles wallet generation and displays the keys.
--solana.js: Contains functions for generating Solana wallets.
--ethereum.js: Contains functions for generating Ethereum wallets.
--index.js: Entry point for the React application.
--balance.js: Fetch the balance of the accounts
+- `src/`: Contains the source code for the React application.
+- `App.jsx`: Main component that handles wallet generation and displays the keys.
+- `solana.js`: Contains functions for generating Solana wallets.
+- `ethereum.js`: Contains functions for generating Ethereum wallets.
+- `index.js`: Entry point for the React application.
+- `balance.js`: Fetch the balance of the accounts.
 
 ## Contributing
 
